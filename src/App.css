@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.password-input-wrapper{
+  position: relative;
+}
+.password-input-wrapper span{
+  position: absolute;
+  /* background-color: red; */
+  top: 30%;
+  right: 3%;
+
+}
+span .icon{
+  /* display: none; */
+  font-size: 1.5rem;
+}
+
